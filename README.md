@@ -1,4 +1,5 @@
 Surveillance Rover: Autonomous Navigation & Face Recognition
+
 An intelligent, multi-tier surveillance system integrating autonomous navigation, remote web-based control, and dual-sensor human detection. The system employs a distributed architecture where a Raspberry Pi 4 acts as the master controller for AI tasks, interfaced with two Arduino microcontrollers for real-time sensor processing and motor control.
 +2
 
